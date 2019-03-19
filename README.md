@@ -1,2 +1,3 @@
 # Titanic
-Kaggle Problem (Basic)
+Kaggle Problem 
+Basic, Classification
